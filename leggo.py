@@ -1,6 +1,6 @@
 import serial
 
-COM_PortName = '/dev/ttyUSB0'
+COM_PortName = '/dev/ttyUSB1'
 
 #Opening the serial port
 
